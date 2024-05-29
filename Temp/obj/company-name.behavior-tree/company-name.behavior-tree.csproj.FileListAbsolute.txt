@@ -1,0 +1,8 @@
+/home/sophia/Dev/behaviortrees/behaviortrees/Temp/bin/Debug/company-name.behavior-tree.deps.json
+/home/sophia/Dev/behaviortrees/behaviortrees/Temp/bin/Debug/company-name.behavior-tree.dll
+/home/sophia/Dev/behaviortrees/behaviortrees/Temp/bin/Debug/company-name.behavior-tree.pdb
+/home/sophia/Dev/behaviortrees/behaviortrees/Temp/obj/company-name.behavior-tree/company-name.behavior-tree.csproj.AssemblyReference.cache
+/home/sophia/Dev/behaviortrees/behaviortrees/Temp/obj/company-name.behavior-tree/company-name.behavior-tree.GeneratedMSBuildEditorConfig.editorconfig
+/home/sophia/Dev/behaviortrees/behaviortrees/Temp/obj/company-name.behavior-tree/company-name.behavior-tree.csproj.CoreCompileInputs.cache
+/home/sophia/Dev/behaviortrees/behaviortrees/Temp/obj/company-name.behavior-tree/company-name.behavior-tree.dll
+/home/sophia/Dev/behaviortrees/behaviortrees/Temp/obj/company-name.behavior-tree/company-name.behavior-tree.pdb

@@ -1,0 +1,17 @@
+{
+    "name": "com.company-name.beahvior-tree",
+    "version": "1.0.0",
+    "displayName": "Beavhior Trees",
+    "description": "A behavior tree framework",
+    "unity": "2022.3",
+    "dependencies": {},
+    "keywords": [
+        "behavior tree"
+        ],
+        "author": {
+        "name": "Sophia Thurmond",
+        "email": "sophthurmond@gmail.com",
+        "url": "https://www.unity3d.com"
+        }
+}
+  
