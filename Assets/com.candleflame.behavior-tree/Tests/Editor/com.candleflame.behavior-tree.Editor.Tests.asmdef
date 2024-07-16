@@ -2,7 +2,7 @@
     "name": "Editor",
     "rootNamespace": "",
     "references": [
-        "company-name.behavior-tree",
+        "candleflame.behavior-tree",
         "UnityEngine.TestRunner",
         "UnityEditor.TestRunner"
     ],
