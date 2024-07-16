@@ -1,6 +1,4 @@
 using System;
-using UnityEngine;
-using BehaviorTree;
 
 namespace BehaviorTree.Nodes.Execution
 {
