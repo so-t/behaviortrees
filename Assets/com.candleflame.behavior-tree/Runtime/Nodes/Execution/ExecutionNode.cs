@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace BehaviorTree.Nodes.Execution
+namespace BehaviorTrees.Nodes.Execution
 {
     public abstract class ExecutionNode : Node, INode 
     {

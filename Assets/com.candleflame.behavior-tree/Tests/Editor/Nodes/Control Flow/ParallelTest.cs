@@ -1,8 +1,8 @@
 using NUnit.Framework;
 using Moq;
-using BehaviorTree;
-using BehaviorTree.Nodes;
-using BehaviorTree.Nodes.ControlFlow;
+using BehaviorTrees;
+using BehaviorTrees.Nodes;
+using BehaviorTrees.Nodes.ControlFlow;
 
 public class ParallelTest 
 {

@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace BehaviorTree.Nodes.ControlFlow
+namespace BehaviorTrees.Nodes.ControlFlow
 {
     public class Fallback : Node, IParent 
     {

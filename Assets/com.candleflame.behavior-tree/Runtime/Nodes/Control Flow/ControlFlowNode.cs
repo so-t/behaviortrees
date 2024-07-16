@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace BehaviorTree.Nodes.ControlFlow 
+namespace BehaviorTrees.Nodes.ControlFlow 
 {
     public abstract class ControlFlowNode : ParentNode, IParent 
     {

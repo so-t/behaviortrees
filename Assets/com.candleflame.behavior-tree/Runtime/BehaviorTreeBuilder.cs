@@ -1,11 +1,11 @@
 using System.Collections.Generic;
 using UnityEngine;
-using BehaviorTree.Nodes;
-using BehaviorTree.Nodes.ControlFlow;
-using BehaviorTree.Nodes.Decorator;
-using BehaviorTree.Nodes.Execution;
+using BehaviorTrees.Nodes;
+using BehaviorTrees.Nodes.ControlFlow;
+using BehaviorTrees.Nodes.Decorator;
+using BehaviorTrees.Nodes.Execution;
 
-namespace BehaviorTree 
+namespace BehaviorTrees 
 {
     public class BehaviorTreeBuilder 
     {

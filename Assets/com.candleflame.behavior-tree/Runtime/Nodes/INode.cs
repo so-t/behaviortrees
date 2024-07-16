@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace BehaviorTree.Nodes
+namespace BehaviorTrees.Nodes
 {
     public interface INode
     {

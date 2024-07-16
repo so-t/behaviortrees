@@ -1,8 +1,8 @@
 using System.Collections.Generic;
 using UnityEngine;
-using BehaviorTree.Nodes;
+using BehaviorTrees.Nodes;
 
-namespace BehaviorTree
+namespace BehaviorTrees
 {
     public class BehaviorTree
     {

@@ -1,9 +1,9 @@
 using NUnit.Framework;
 using Moq;
-using BehaviorTree;
-using BehaviorTree.Nodes;
-using BehaviorTree.Nodes.Execution;
-using BehaviorTree.Nodes.ControlFlow;
+using BehaviorTrees;
+using BehaviorTrees.Nodes;
+using BehaviorTrees.Nodes.Execution;
+using BehaviorTrees.Nodes.ControlFlow;
 
 public class SequenceTest 
 {

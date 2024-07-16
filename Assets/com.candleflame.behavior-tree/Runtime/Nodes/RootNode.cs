@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace BehaviorTree.Nodes
+namespace BehaviorTrees.Nodes
 {
     public class RootNode : ParentNode, IParent
     {

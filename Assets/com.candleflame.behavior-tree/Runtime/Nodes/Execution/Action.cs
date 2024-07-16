@@ -1,6 +1,6 @@
 using System;
 
-namespace BehaviorTree.Nodes.Execution
+namespace BehaviorTrees.Nodes.Execution
 {
     public class Action : ExecutionNode, INode 
     {

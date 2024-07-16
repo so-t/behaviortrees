@@ -1,7 +1,7 @@
 using NUnit.Framework;
-using BehaviorTree;
-using BehaviorTree.Nodes.Execution;
-using BehaviorTree.Nodes.Decorator;
+using BehaviorTrees;
+using BehaviorTrees.Nodes.Execution;
+using BehaviorTrees.Nodes.Decorator;
 
 public class InverterTest 
 {

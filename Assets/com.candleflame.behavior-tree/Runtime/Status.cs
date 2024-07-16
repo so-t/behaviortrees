@@ -1,4 +1,4 @@
-namespace BehaviorTree
+namespace BehaviorTrees
 {
     public enum Status
     {

@@ -1,6 +1,6 @@
 using NUnit.Framework;
-using BehaviorTree;
-using BehaviorTree.Nodes.Execution;
+using BehaviorTrees;
+using BehaviorTrees.Nodes.Execution;
 
 public class ActionTest 
 {

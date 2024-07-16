@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace BehaviorTree.Nodes
+namespace BehaviorTrees.Nodes
 {
     public abstract class ParentNode
     {        

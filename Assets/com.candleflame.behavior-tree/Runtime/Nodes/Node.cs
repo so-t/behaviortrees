@@ -1,4 +1,4 @@
-namespace BehaviorTree.Nodes
+namespace BehaviorTrees.Nodes
 {
     public abstract class Node
     {

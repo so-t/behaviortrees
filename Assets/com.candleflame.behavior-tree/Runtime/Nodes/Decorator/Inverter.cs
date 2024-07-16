@@ -1,6 +1,6 @@
 using System;
 
-namespace BehaviorTree.Nodes.Decorator
+namespace BehaviorTrees.Nodes.Decorator
 {
     public class Inverter : DecoratorNode, IParent 
     {
